@@ -1,0 +1,10 @@
+# data mentah RetailRocket (terlalu besar untuk GitHub, batas 100 MB per file)
+data/*
+!data/events_p1.csv
+!data/events_p2.csv
+*.zip
+# environment dan cache
+myenv/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
